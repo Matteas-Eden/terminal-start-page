@@ -88,7 +88,7 @@ const Fetch = ({ closeCallback }) => {
 			</span>
 			<div className="grid grid-cols-2 gap-4">
 				<div className="mt-4">
-					{icon && <img className="w-full h-full mx-auto" src={icon} alt="" />}
+					{icon && <img className="w-[80%] h-full mx-auto" src={icon} alt="" />}
 				</div>
 				<div className="mt-4 text-textColor">
 					<div className="mx-auto">
