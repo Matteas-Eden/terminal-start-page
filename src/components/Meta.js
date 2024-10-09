@@ -23,7 +23,7 @@ const Meta = () => {
 
 	useEffect(() => {
 		// Set title
-		setTitle(settings.username + "\'s Start Page")
+		setTitle(settings.username + "'s Start Page")
 	}, [settings.username])
 
 	return (
