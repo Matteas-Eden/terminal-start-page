@@ -33,11 +33,12 @@ jobs:
         with:
           context: .
           push: true
-          tags: ${{ secrets.DOCKER_REGISTRY_URL }}
+          tags: ${{ secrets.DOCKER_REGISTRY_URL }}/terminalstartpage
 
   dispatch:
     name: Trigger redeploy on CD pipeline
     runs-on: ubuntu-latest
+    needs: publish
       
     env:
       APP_NAME: "matteas.nz"
