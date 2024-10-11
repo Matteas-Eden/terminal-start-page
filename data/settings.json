@@ -121,7 +121,7 @@
                     },
                     {
                         "name": "Youtube",
-                        "url": "https://gematsu.com/",
+                        "url": "https://youtube.com/",
                         "icon": "fa6-brands:youtube"
                     }
                 ]
@@ -193,6 +193,28 @@
                 ]
             },
 			{
+                "title": "Misc",
+                "color": "yellow",
+                "align": "left",
+                "links": [
+                    {
+                        "name": "Scryfall",
+                        "url": "https://scryfall.com",
+                        "icon": "icon-park-outline:search"
+                    },
+                    {
+                        "name": "MTG Singles",
+                        "url": "https://www.mtgsingles.co.nz",
+                        "icon": "game-icons:card-joker"
+                    },
+                    {
+                        "name": "Arch Wiki",
+                        "url": "https://wiki.archlinux.org/",
+                        "icon": "mdi:arch"
+                    }
+                ]
+            },
+            {
                 "title": "日本語",
                 "color": "cyan",
                 "align": "left",
