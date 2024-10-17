@@ -192,7 +192,7 @@
                 ]
             },
             {
-                "title": "Misc",
+                "title": "MTG",
                 "color": "yellow",
                 "align": "left",
                 "links": [
@@ -202,14 +202,14 @@
                         "icon": "icon-park-outline:search"
                     },
                     {
-                        "name": "MTG Singles",
-                        "url": "https://www.mtgsingles.co.nz",
-                        "icon": "game-icons:card-joker"
+                        "name": "Moxfield",
+                        "url": "https://moxfield.com",
+                        "icon": "game-icons:dragon-orb"
                     },
                     {
-                        "name": "Arch Wiki",
-                        "url": "https://wiki.archlinux.org/",
-                        "icon": "mdi:arch"
+                        "name": "MTG Singles",
+                        "url": "https://www.mtgsingles.co.nz",
+                        "icon": "game-icons:card-draw"
                     }
                 ]
             },
