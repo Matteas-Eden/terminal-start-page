@@ -16,7 +16,7 @@
         "gray": "#97989d"
     },
     "wallpaper": {
-        "url": "assets/evening-sky.png",
+        "url": "assets/island-sunrise.jpg",
         "easing": "ease-in-out",
         "fadeIn": true,
         "blur": false
@@ -103,7 +103,7 @@
     },
     "sections": {
         "list": [
-			{
+            {
                 "title": "Google",
                 "color": "green",
                 "align": "left",
@@ -130,11 +130,11 @@
                 "color": "red",
                 "align": "left",
                 "links": [
-					{
-						"name": "Unixporn",
-						"url": "https://reddit.com/r/Unixporn",
-						"icon": "mdi:reddit"
-					},
+                    {
+                        "name": "Unixporn",
+                        "url": "https://reddit.com/r/Unixporn",
+                        "icon": "mdi:reddit"
+                    },
                     {
                         "name": "MagicTCG",
                         "url": "https://reddit.com/r/MagicTCG",
@@ -169,7 +169,7 @@
                     }
                 ]
             },
-			{
+            {
                 "title": "Dev",
                 "color": "magenta",
                 "align": "left",
@@ -191,7 +191,7 @@
                     }
                 ]
             },
-			{
+            {
                 "title": "Misc",
                 "color": "yellow",
                 "align": "left",
@@ -235,7 +235,6 @@
                     }
                 ]
             }
-			
         ]
     }
 }
