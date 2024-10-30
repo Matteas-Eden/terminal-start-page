@@ -48,8 +48,7 @@ body {
 }
 
 a,
-a:active,
-a:visited {
+a:active {
 	color: var(--url-default);
 	text-decoration: none;
 	transition: color 0.2s !important;
@@ -85,11 +84,6 @@ a:hover {
 .bg-window-color {
 	opacity: var(--window-opacity);
 	backdrop-filter: blur(var(--window-blur));
-}
-
-.selected {
-	background-color: var(--selection-bg);
-	color: var(--selection-fg) !important;
 }
 
 .align-left { text-align: left; }
