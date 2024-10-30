@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react"
 import { useSettings } from "@/context/settings"
 import { Icon } from "@iconify/react"
 
-const Link = ({ linkData, filter, selection }) => {
+const Link = ({ linkData, filter, selection, sectionColor }) => {
 	const { settings } = useSettings()
 	const [isHidden, setHidden] = useState(false)
 	const [isSelected, setSelected] = useState(false)
@@ -34,7 +34,7 @@ const Link = ({ linkData, filter, selection }) => {
 		<li className="-my-2 -ml-3">
 			<a
 				className={`ml-2 leading-2 my-1 ${isHidden && "opacity-20"} ${
-					isSelected ? "selected" : ""
+					isSelected ? `text-black bg-${sectionColor}` : ""
 				} inline-block px-1 rounded-selection`}
 				href={url}
 				rel="noopener noreferrer nofollow"
