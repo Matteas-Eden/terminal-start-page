@@ -21,6 +21,7 @@ const Section = ({ section, filter, selection }) => {
 								linkData={link}
 								filter={filter}
 								selection={selection}
+								sectionColor={section.color}
 							/>
 						)
 					}
