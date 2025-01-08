@@ -72,7 +72,7 @@ function tryParseSearchShortcut(command, settings) {
 			const url = commandData.url
 
 			const encodedBuffer = encodeURIComponent(regex_cmd[2])
-			openLink(url.replace("{}", encodedBuffer, settings.urlLaunch.target))
+			openLink(url.replace("{}", encodedBuffer), settings.urlLaunch.target)
 			return true
 		}
 	}
