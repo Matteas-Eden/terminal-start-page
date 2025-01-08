@@ -86,8 +86,8 @@
             },
             {
                 "alias": "s",
-                "name": "Stack Overflow Search",
-                "url": "https://stackoverflow.com/search?q={}"
+                "name": "Scryfall Search",
+                "url": "https://scryfall.com/search?q={}"
             },
             {
                 "alias": "r",
