@@ -185,9 +185,9 @@
                         "icon": "material-symbols:logo-dev"
                     },
                     {
-                        "name": "Stack Overflow",
-                        "url": "https://stackoverflow.com/",
-                        "icon": "mdi:stack-overflow"
+                        "name": "Tailwind",
+                        "url": "https://tailwindcss.com/",
+                        "icon": "simple-icons:tailwindcss"
                     }
                 ]
             },
