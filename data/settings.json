@@ -65,7 +65,7 @@
         "hoverColor": "magenta"
     },
     "search": {
-        "default": "https://duckduckgo.com/?q=",
+        "default": "https://duckduckgo.com/?q={}",
         "target": "_self",
         "shortcutRegex": "([A-Za-z0-9]+) (.*)",
         "shortcuts": [
