@@ -90,6 +90,11 @@
                 "url": "https://scryfall.com/search?q={}"
             },
             {
+                "alias": "c",
+                "name": "Card Spy Search",
+                "url": "https://cardspy.nz/?q={}"
+            },
+            {
                 "alias": "r",
                 "name": "Subreddit Search",
                 "url": "https://reddit.com/r/{}"
@@ -207,8 +212,8 @@
                         "icon": "game-icons:dragon-orb"
                     },
                     {
-                        "name": "MTG Singles",
-                        "url": "https://www.mtgsingles.co.nz",
+                        "name": "Card Spy",
+                        "url": "https://cardspy.nz",
                         "icon": "game-icons:card-draw"
                     }
                 ]
