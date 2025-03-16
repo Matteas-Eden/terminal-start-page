@@ -132,24 +132,24 @@
                 ]
             },
             {
-                "title": "Reddit",
+                "title": "Magic",
                 "color": "red",
                 "align": "left",
                 "links": [
                     {
-                        "name": "Unixporn",
-                        "url": "https://reddit.com/r/Unixporn",
-                        "icon": "mdi:reddit"
+                        "name": "Scryfall",
+                        "url": "https://scryfall.com",
+                        "icon": "icon-park-outline:search"
                     },
                     {
-                        "name": "MagicTCG",
-                        "url": "https://reddit.com/r/MagicTCG",
-                        "icon": "mdi:reddit"
+                        "name": "Card Spy",
+                        "url": "https://cardspy.nz",
+                        "icon": "game-icons:card-draw"
                     },
                     {
-                        "name": "MagicArena",
-                        "url": "https://reddit.com/r/MagicArena",
-                        "icon": "mdi:reddit"
+                        "name": "Divination",
+                        "url": "https://divination.cardspy.nz",
+                        "icon": "game-icons:dragon-orb"
                     }
                 ]
             },
@@ -186,36 +186,36 @@
                         "icon": "mdi:github"
                     },
                     {
-                        "name": "Dev.to",
-                        "url": "https://dev.to",
-                        "icon": "material-symbols:logo-dev"
+                        "name": "ArchWiki",
+                        "url": "https://wiki.archlinux.org/",
+                        "icon": "mdi:arch"
                     },
                     {
-                        "name": "Tailwind",
-                        "url": "https://tailwindcss.com/",
-                        "icon": "simple-icons:tailwindcss"
+                        "name": "MDN",
+                        "url": "https://developer.mozilla.org/en-US/",
+                        "icon": "simple-icons:mdnwebdocs"
                     }
                 ]
             },
             {
-                "title": "MTG",
+                "title": "Design",
                 "color": "yellow",
                 "align": "left",
                 "links": [
                     {
-                        "name": "Scryfall",
-                        "url": "https://scryfall.com",
-                        "icon": "icon-park-outline:search"
+                        "name": "Tailwind",
+                        "url": "https://tailwindcss.com/",
+                        "icon": "simple-icons:tailwindcss"
                     },
                     {
-                        "name": "Moxfield",
-                        "url": "https://moxfield.com",
-                        "icon": "game-icons:dragon-orb"
+                        "name": "Iconify",
+                        "url": "https://icon-sets.iconify.design/",
+                        "icon": "line-md:iconify2-static"
                     },
                     {
-                        "name": "Card Spy",
-                        "url": "https://cardspy.nz",
-                        "icon": "game-icons:card-draw"
+                        "name": "Excalidraw",
+                        "url": "https://excalidraw.com/",
+                        "icon": "simple-icons:excalidraw"
                     }
                 ]
             },
