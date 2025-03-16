@@ -76,11 +76,6 @@
                 "url": "https://google.com/search?q={}"
             },
             {
-                "alias": "d",
-                "name": "DuckDuckGo Search",
-                "url": "https://duckduckgo.com/?q={}"
-            },
-            {
                 "alias": "gh",
                 "name": "Github Search",
                 "url": "https://github.com/search?q={}"
@@ -94,6 +89,11 @@
                 "alias": "c",
                 "name": "Card Spy Search",
                 "url": "https://cardspy.nz/?q={}"
+            },
+            {
+                "alias": "d",
+                "name": "Divination Search",
+                "url": "https://divination.cardspy.nz/?q={}"
             },
             {
                 "alias": "r",
