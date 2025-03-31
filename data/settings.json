@@ -93,7 +93,7 @@
             {
                 "alias": "d",
                 "name": "Divination Search",
-                "url": "https://divination.cardspy.nz/?q={}"
+                "url": "https://divination.nz/?q={}"
             },
             {
                 "alias": "r",
@@ -148,7 +148,7 @@
                     },
                     {
                         "name": "Divination",
-                        "url": "https://divination.cardspy.nz",
+                        "url": "https://divination.nz",
                         "icon": "game-icons:dragon-orb"
                     }
                 ]
